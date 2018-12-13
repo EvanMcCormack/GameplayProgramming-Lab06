@@ -132,12 +132,7 @@ void Game::update()
 	}
 	if (updatable)
 	{
-		/*rotationAngle += 0.005f;
 
-		if (rotationAngle > 360.0f)
-		{
-			rotationAngle -= 360.0f;
-		}*/
 	}
 
 	for (int i = 0; i < 8; i++)

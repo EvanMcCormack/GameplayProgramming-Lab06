@@ -4,10 +4,11 @@
 
 /// Name: Evan McCormack
 /// Login: C00224448
-/// Date: 13/12/2018
-/// Time Expected: 1 hours
-/// time Taken: 1 hours
-/// Errors: 
+/// Date: 27/04/2018
+/// Time Expected: 2 hours
+/// time Taken: 2 hours
+/// Errors: Couldn't get faces to change due to placement
+/// Didnt have time to add in the numbers at cornners
 
 #include <iostream>
 #include <SFML/Graphics.hpp>
